@@ -1,0 +1,3 @@
+[submodule "privacy-policy"]
+	path = privacy-policy
+	url = git@github.com:dzw/privacy-policy.git
