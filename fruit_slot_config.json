@@ -1,0 +1,40 @@
+[
+  { "key": "rc_en_cnad", "ver": "1", "value": "1" },
+  { "key": "rc_en_ipc", "ver": "1", "value": "0" },
+  {
+    "key": "rcfg_announcement_message",
+    "ver": "20260909-v1",
+    "CN": {
+      "title": "【测试公告】V1 多语言",
+      "message": "这是一条完整的多语言测试公告。\n第二行：测试换行。\n特殊符号：@#$%^&*()_+=[]{};:\",./<>? | 全角标点：，。！？【】《》"
+    },
+    "TW": {
+      "title": "【測試公告】V1 多語言",
+      "message": "這是一條完整的繁體中文測試公告。\n全形標點：「」『』、……。\n符號：～！＠＃＄％＆＊（ ）"
+    },
+    "EN": {
+      "title": "[Test Notice] V1 Multi-language",
+      "message": "This is a full multi-language test announcement.\nLine 2: line break test.\nSymbols: @#$%^&*()_+=[]{};:\",./<>? Quotes: 'single' and \"double\"."
+    },
+    "ES": {
+      "title": "[Aviso de prueba] V1 Multilingüe",
+      "message": "Este es un anuncio de prueba completo en español.\nAcentos: á é í ó ú ñ ü ¿¡. ¡Hola, mundo!"
+    },
+    "PT": {
+      "title": "[Aviso de teste] V1 Multilíngue",
+      "message": "Este é um anúncio de teste completo em português.\nAcentuação: ã õ ç á é í ó ú. Olá, mundo!"
+    },
+    "VN": {
+      "title": "[Thông báo thử nghiệm] V1 Đa ngôn ngữ",
+      "message": "Đây là thông báo kiểm tra tiếng Việt đầy đủ.\nKý tự đặc biệt: ă â đ ê ô ơ ư, dấu sắc huyền hỏi ngã nặng. Xin chào!"
+    },
+    "KR": {
+      "title": "[테스트 공지] V1 다국어",
+      "message": "이것은 완전한 다국어 테스트 공지입니다.\n한글 테스트: 안녕하세요, 반갑습니다!\n특수문자: !@#$%^&*()"
+    },
+    "JP": {
+      "title": "【テストお知らせ】V1 多言語",
+      "message": "これは完全な多言語テストのお知らせです。\n日本語テスト：こんにちは、よろしくお願いします！\n記号：（）「」『』、。・"
+    }
+  }
+]
